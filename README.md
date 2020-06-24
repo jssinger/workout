@@ -2,10 +2,9 @@
 
 **PT Workout** is a muscle group specific workout generator made in Java.
 
-General Use:
 <img src='./Walkthrough1.gif' title='Walkthrough' width='300' alt='Walkthrough' />
 
-Full Body Workout Feature:
+
 <img src='./Walkthrough2.gif' title='Walkthrough' width='300' alt='Walkthrough' />
 
 ## User Stories
